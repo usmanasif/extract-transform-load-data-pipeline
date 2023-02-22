@@ -1,0 +1,7 @@
+/node_modules
+/build
+/files/decompressed
+/files/transformed
+/src/tests/testFiles/output
+/src/tests/testFiles/uncompressed
+/coverage
